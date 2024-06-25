@@ -22,7 +22,7 @@ The project achieved an accuracy of 70% on the testing set, with detailed perfor
 To set up the project environment:
 
 ```bash
-git clone https://github.com/yourgithubusername/persian_author_classification.git
+git clone https://github.com/Amir-Entezari/persian-literature-classifier.git
 cd persian_author_classification
 pip install -r requirements.txt
 ```
